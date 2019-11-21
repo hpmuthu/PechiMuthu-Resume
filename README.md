@@ -13,12 +13,12 @@
 - Responsible for deploying Android applications to Google Play Store. Handling a Project from early stage to delivery.
 
  **Software Engineer**
- **NDOT Technologies,** Coimbatore, Tamil Nadu, 03/2016 - 02/2017 |
+ **NDOT Technologies,** Coimbatore, Tamil Nadu, 03/2016 - 02/2017
 - Developing taxi applications like Ola and Uber. Team handling. Implementing the approved web design.
 - Writing API services for mobile applications. Responsible for project build and deployment.
 
  **Associate Software Engineer Android**
- **Numero Technologies,** Coimbatore, Tamil Nadu, 03/2014 - 12/2015 |
+ **Numero Technologies,** Coimbatore, Tamil Nadu, 03/2014 - 12/2015
 - Developing native Android applications. Implementing the approved web design.
 - Handling a Project from early stage to delivery.
 
