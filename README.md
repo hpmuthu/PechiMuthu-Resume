@@ -29,7 +29,7 @@
 - Frameworks and tools - Android Studio, IntelliJ IDEA, Junit Testing
 - Others - Git, SVN, GitHub, Maven, Gradle, Jira
 
-**Education**
+## **Education** ##
 **Barathiar University,** Coimbatore, Tamil Nadu, March 2010
 - UG Degree: **BCA(****B****achelor of Computer Application)**
 - Main coursework: Data Structures, Design and analysis of Algorithms, Computer Architecture, Database Systems, Operating Systems, Software Engineering.
