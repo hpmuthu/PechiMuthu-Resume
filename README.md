@@ -3,7 +3,7 @@
 | --- | --- | --- |
 ##  **Employment** ##
  **Android Developer**
- **NextGen Web Services,** Coimbatore, Tamil Nadu, 03/2019 - Present 
+ **NextGen Web Services,** Coimbatore, Tamil Nadu, 02/2019 - Present 
 - Used Kotlin and Java to develop state-of-the-art mobile applications for Android. Involved at every project phrase, from concept creation to app store deployment.
 - Responsible for general maintenance of application library and debugging. Supported junior members of the team, providing ongoing advice and guidance.
 
